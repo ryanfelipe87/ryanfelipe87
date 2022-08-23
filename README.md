@@ -4,7 +4,6 @@
 - 🔭 Atualmente não estou na área de tecnologia.
 - 🌱 Atualmente estou estudando Java.
 - 👯 Procuro colaborar em desenvolvimento back-end.
-- 📫 Contato: ryanfelipe.rr@gmail.com
 - 😄 Pronouns: Ele/Dele
 
 
