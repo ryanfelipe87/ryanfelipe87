@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente não estou na área de tecnologia.
-- 🌱 Cursando Sistemas de informação.
+- 🌱 Graduando Sistemas de informação.
 - 👯 Procuro colaborar em desenvolvimento back-end com Java.
 - 😄 Pronouns: Ele/Dele
 
