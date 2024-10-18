@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ryan Felipe! 👋
 
 
-- 🔭 Atualmente não estou na área de tecnologia.
+- 🔭 Auxiliar de Desenvolvimento de Sistemas na Millena Móveis e Eletro.
 - 🌱 Graduando Sistemas de informação.
 - 👯 Procuro colaborar em desenvolvimento back-end com Java.
 - 😄 Pronouns: Ele/Dele
