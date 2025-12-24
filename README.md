@@ -5,6 +5,7 @@
 - 🌱 Graduado em Sistemas de informação.
 - 👯 Procuro colaborar em desenvolvimento back-end com Java.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanfelipe87)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <a href="https://github.com/ryanfelipe87">
